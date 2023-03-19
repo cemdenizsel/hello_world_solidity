@@ -1,4 +1,4 @@
-# HW 5
+# My First Solidity Contract 
 
 ## Author
 
